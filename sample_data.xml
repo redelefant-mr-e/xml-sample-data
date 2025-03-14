@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produktKatalog>
+    <produkt>
+        <id>A001</id>
+        <feld1>Lion</feld1>
+        <feld2>Mammal</feld2>
+        <feld3>Carnivore</feld3>
+        <feld4>Savanna</feld4>
+        <feld5>Golden Brown</feld5>
+    </produkt>
+    <produkt>
+        <id>A002</id>
+        <feld1>Elephant</feld1>
+        <feld2>Mammal</feld2>
+        <feld3>Herbivore</feld3>
+        <feld4>Savanna</feld4>
+        <feld5>Gray</feld5>
+    </produkt>
+    <produkt>
+        <id>A003</id>
+        <feld1>Penguin</feld1>
+        <feld2>Bird</feld2>
+        <feld3>Carnivore</feld3>
+        <feld4>Antarctica</feld4>
+        <feld5>Black and White</feld5>
+    </produkt>
+</produktKatalog> 
